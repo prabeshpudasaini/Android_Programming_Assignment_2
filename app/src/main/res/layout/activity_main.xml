@@ -8,13 +8,16 @@
         android:layout_height="wrap_content"
         android:text="Get Phone"
         android:id="@+id/btnphone"
+
         />
 
     <TextView
         android:id="@+id/tvphone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/btnphone"/>
+        android:layout_below="@+id/btnphone"
+        android:text="Number"/>
+
 
 
 

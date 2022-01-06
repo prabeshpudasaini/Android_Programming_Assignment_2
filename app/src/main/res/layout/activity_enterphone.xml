@@ -8,6 +8,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/phone"
         android:text="Enter phone"
+        android:inputType="number"
 
         />
 
